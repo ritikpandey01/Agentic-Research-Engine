@@ -118,5 +118,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Team Antigravity** - Building the future of verifiable intelligence.
-🥈 *2nd Prize Winners - National Hackathon*
